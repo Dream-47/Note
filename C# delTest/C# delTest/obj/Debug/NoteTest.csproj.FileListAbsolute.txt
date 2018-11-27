@@ -1,0 +1,6 @@
+C:\Users\SJ\Desktop\Note\NoteTest\NoteTest\bin\Debug\NoteTest.exe
+C:\Users\SJ\Desktop\Note\NoteTest\NoteTest\bin\Debug\NoteTest.pdb
+C:\Users\SJ\Desktop\Note\NoteTest\NoteTest\obj\Debug\NoteTest.csprojAssemblyReference.cache
+C:\Users\SJ\Desktop\Note\NoteTest\NoteTest\obj\Debug\NoteTest.csproj.CoreCompileInputs.cache
+C:\Users\SJ\Desktop\Note\NoteTest\NoteTest\obj\Debug\NoteTest.exe
+C:\Users\SJ\Desktop\Note\NoteTest\NoteTest\obj\Debug\NoteTest.pdb
